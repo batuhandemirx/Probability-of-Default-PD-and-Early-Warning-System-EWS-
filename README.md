@@ -224,6 +224,9 @@ The Precision-Recall curve is particularly useful for **imbalanced datasets**, w
 
 This metric is especially important for risk detection.
 
+<img width="1589" height="590" alt="image" src="https://github.com/user-attachments/assets/0f142280-721f-401d-a9d8-0e497770dd76" />
+<img width="528" height="470" alt="image" src="https://github.com/user-attachments/assets/cfe9a094-3ef6-4e9c-919c-064d5a783071" />
+
 ---
 
 # Classification Report
@@ -262,6 +265,8 @@ The proposed model significantly outperforms the benchmark scoring system.
 
 This indicates that the engineered features provide substantial predictive value.
 
+<img width="985" height="857" alt="image" src="https://github.com/user-attachments/assets/a0b13d0c-55bc-4bfc-8a75-37a49dbc558b" />
+
 ---
 
 # Early Warning System (EWS)
@@ -293,6 +298,8 @@ Results:
 The high recall indicates that the system successfully identifies a large proportion of emerging risk cases.
 
 Although precision is relatively low, this is expected in early warning systems where **missing a risky client is more costly than issuing a false alert**.
+
+<img width="985" height="705" alt="image" src="https://github.com/user-attachments/assets/04d773a7-9aaa-4bf9-bcc2-f48859f74f43" />
 
 ---
 
